@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Update CI.md with CI links (#8786)
