@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Allow Annotator PIL.Image inputs (#8397)
