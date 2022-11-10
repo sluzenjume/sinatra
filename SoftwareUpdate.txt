@@ -1,1 +1,1 @@
-added badges (#45)
+Fix cmake requirements for ARM64 (#8589)
