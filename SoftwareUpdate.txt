@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
