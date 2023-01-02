@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Add docs guide terminal images (#8819)
