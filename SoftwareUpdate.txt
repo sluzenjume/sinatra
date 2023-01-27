@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
