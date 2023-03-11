@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Compress docs images (#8124)
