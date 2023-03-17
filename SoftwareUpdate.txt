@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
