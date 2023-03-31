@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Pass callbacks to validator (#7320)
