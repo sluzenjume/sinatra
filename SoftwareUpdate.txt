@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Expand Model method type hinting (#8279)
