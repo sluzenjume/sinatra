@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Add docs guide terminal images (#8819)
