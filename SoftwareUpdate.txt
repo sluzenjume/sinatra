@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
