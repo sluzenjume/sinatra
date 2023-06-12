@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
