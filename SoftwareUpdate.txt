@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Retry once for Docker CI failures (#8164)
