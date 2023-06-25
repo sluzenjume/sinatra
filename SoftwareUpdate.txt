@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Optimize function calls to method calls (#8507)
