@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
