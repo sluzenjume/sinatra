@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
