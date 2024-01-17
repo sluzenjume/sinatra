@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Add C++ Classify inference example (#6868)
