@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Update the heatmap module code + docs (#7045)
