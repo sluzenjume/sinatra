@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
