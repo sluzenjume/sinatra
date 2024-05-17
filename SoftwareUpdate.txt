@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
